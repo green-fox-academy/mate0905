@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) /cmake-build-debug"/>
+				<Option working_dir="/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 ( urlfixer ) /cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) /cmake-build-debug"/>
+				<Option working_dir="/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 ( urlfixer ) /cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) /cmake-build-debug"/>
+				<Option working_dir="/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 ( urlfixer ) /cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="week_2_day_1___urlfixer___">
-				<Option output="/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) /cmake-build-debug/week_2_day_1___urlfixer___" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) /cmake-build-debug"/>
+				<Option output="/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 ( urlfixer ) /cmake-build-debug/week_2_day_1___urlfixer___" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 ( urlfixer ) /cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -51,15 +51,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 week_2_day_1___urlfixer___"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 week_2_day_1___urlfixer___"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="week_2_day_1___urlfixer___/fast">
-				<Option output="/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) /cmake-build-debug/week_2_day_1___urlfixer___" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) /cmake-build-debug"/>
+				<Option output="/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 ( urlfixer ) /cmake-build-debug/week_2_day_1___urlfixer___" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 ( urlfixer ) /cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -71,17 +71,17 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 week_2_day_1___urlfixer___/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 week_2_day_1___urlfixer___/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week\ 2\ day\ 1\ (\ urlfixer\ )\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) /main.cpp">
+		<Unit filename="/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 ( urlfixer ) /main.cpp">
 			<Option target="week_2_day_1___urlfixer___"/>
 		</Unit>
-		<Unit filename="/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) /CMakeLists.txt">
+		<Unit filename="/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 ( urlfixer ) /CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
