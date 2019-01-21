@@ -1,4 +1,4 @@
-# Install script for directory: /Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 (simple replace)
+# Install script for directory: /Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) 
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 (simple replace)/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) /cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

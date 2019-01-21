@@ -59,45 +59,45 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 (simple replace)"
+CMAKE_SOURCE_DIR = "/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) "
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 (simple replace)/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) /cmake-build-debug"
 
 #=============================================================================
-# Target rules for target CMakeFiles/week_2_day_1__simple_replace_.dir
+# Target rules for target CMakeFiles/week_2_day_1___urlfixer___.dir
 
 # All Build rule for target.
-CMakeFiles/week_2_day_1__simple_replace_.dir/all:
-	$(MAKE) -f CMakeFiles/week_2_day_1__simple_replace_.dir/build.make CMakeFiles/week_2_day_1__simple_replace_.dir/depend
-	$(MAKE) -f CMakeFiles/week_2_day_1__simple_replace_.dir/build.make CMakeFiles/week_2_day_1__simple_replace_.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 (simple replace)/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target week_2_day_1__simple_replace_"
-.PHONY : CMakeFiles/week_2_day_1__simple_replace_.dir/all
+CMakeFiles/week_2_day_1___urlfixer___.dir/all:
+	$(MAKE) -f CMakeFiles/week_2_day_1___urlfixer___.dir/build.make CMakeFiles/week_2_day_1___urlfixer___.dir/depend
+	$(MAKE) -f CMakeFiles/week_2_day_1___urlfixer___.dir/build.make CMakeFiles/week_2_day_1___urlfixer___.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) /cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target week_2_day_1___urlfixer___"
+.PHONY : CMakeFiles/week_2_day_1___urlfixer___.dir/all
 
 # Include target in all.
-all: CMakeFiles/week_2_day_1__simple_replace_.dir/all
+all: CMakeFiles/week_2_day_1___urlfixer___.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/week_2_day_1__simple_replace_.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 (simple replace)/cmake-build-debug/CMakeFiles" 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/week_2_day_1__simple_replace_.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 1 (simple replace)/cmake-build-debug/CMakeFiles" 0
-.PHONY : CMakeFiles/week_2_day_1__simple_replace_.dir/rule
+CMakeFiles/week_2_day_1___urlfixer___.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) /cmake-build-debug/CMakeFiles" 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/week_2_day_1___urlfixer___.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 ( urlfixer ) /cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/week_2_day_1___urlfixer___.dir/rule
 
 # Convenience name for target.
-week_2_day_1__simple_replace_: CMakeFiles/week_2_day_1__simple_replace_.dir/rule
+week_2_day_1___urlfixer___: CMakeFiles/week_2_day_1___urlfixer___.dir/rule
 
-.PHONY : week_2_day_1__simple_replace_
-
-# clean rule for target.
-CMakeFiles/week_2_day_1__simple_replace_.dir/clean:
-	$(MAKE) -f CMakeFiles/week_2_day_1__simple_replace_.dir/build.make CMakeFiles/week_2_day_1__simple_replace_.dir/clean
-.PHONY : CMakeFiles/week_2_day_1__simple_replace_.dir/clean
+.PHONY : week_2_day_1___urlfixer___
 
 # clean rule for target.
-clean: CMakeFiles/week_2_day_1__simple_replace_.dir/clean
+CMakeFiles/week_2_day_1___urlfixer___.dir/clean:
+	$(MAKE) -f CMakeFiles/week_2_day_1___urlfixer___.dir/build.make CMakeFiles/week_2_day_1___urlfixer___.dir/clean
+.PHONY : CMakeFiles/week_2_day_1___urlfixer___.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/week_2_day_1___urlfixer___.dir/clean
 
 .PHONY : clean
 
