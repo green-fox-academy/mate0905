@@ -1,0 +1,3 @@
+/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 free pra. /cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 free pra. /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gasparmate/Desktop/suli/mate0905/week 2 day 1 free pra. /cmake-build-debug/CMakeFiles/week_2_day_1_free_pra__.dir

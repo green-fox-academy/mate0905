@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="week_2_day_1_free_pra__" targetName="week_2_day_1_free_pra__" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d91033f7-b49b-4a24-9ce5-07306a8dca02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/untitled" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/cmake-build-debug/untitled.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/.idea/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/untitled1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/cmake-build-debug/untitled1.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled1/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/.idea/untitled10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/untitled10.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/untitled10.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/untitled10.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/untitled10.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/untitled10.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/untitled10.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/untitled10.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/untitled10.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/CMakeFiles/untitled10.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/untitled10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/cmake-build-debug/untitled10.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled10/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/.idea/untitled11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/untitled11.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/untitled11.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/untitled11.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/untitled11.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/untitled11.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/untitled11.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/untitled11.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/untitled11.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/untitled11.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/CMakeFiles/untitled11.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/untitled11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/cmake-build-debug/untitled11.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled11/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/.idea/untitled12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/untitled12.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/untitled12.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/untitled12.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/untitled12.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/untitled12.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/untitled12.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/untitled12.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/untitled12.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/untitled12.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/CMakeFiles/untitled12.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/untitled12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/cmake-build-debug/untitled12.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled12/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/.idea/untitled13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/untitled13.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/untitled13.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/untitled13.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/untitled13.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/untitled13.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/untitled13.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/untitled13.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/untitled13.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/untitled13.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/CMakeFiles/untitled13.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/untitled13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/cmake-build-debug/untitled13.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled13/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/.idea/untitled14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/untitled14.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/untitled14.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/untitled14.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/untitled14.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/untitled14.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/untitled14.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/untitled14.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/untitled14.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/untitled14.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/CMakeFiles/untitled14.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/untitled14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/cmake-build-debug/untitled14.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled14/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/.idea/untitled2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/untitled2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/cmake-build-debug/untitled2.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled2/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/.idea/untitled3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/cmake-build-debug/untitled3.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled3/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/.idea/untitled4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/untitled4.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/untitled4.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/untitled4.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/untitled4.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/untitled4.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/untitled4.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/CMakeFiles/untitled4.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/cmake-build-debug/untitled4.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled4/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/.idea/untitled5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/untitled5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/cmake-build-debug/untitled5.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled5/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/.idea/untitled6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/untitled6.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/untitled6.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/untitled6.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/untitled6.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/untitled6.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/untitled6.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/CMakeFiles/untitled6.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/cmake-build-debug/untitled6.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled6/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/.idea/untitled7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/untitled7.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/untitled7.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/untitled7.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/untitled7.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/untitled7.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/untitled7.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/CMakeFiles/untitled7.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/cmake-build-debug/untitled7.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled7/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/.idea/untitled8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/cmake-build-debug/untitled8.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled8/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/.idea/untitled9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/untitled9.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/untitled9.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/untitled9.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/untitled9.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/untitled9.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/untitled9.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/CMakeFiles/untitled9.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/cmake-build-debug/untitled9.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLionProjects/untitled9/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mate0905" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="40" />
+    <option name="width" value="1402" />
+    <option name="height" value="782" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="week_2_day_1_free_pra__" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="week_2_day_1_free_pra__" TARGET_NAME="week_2_day_1_free_pra__" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="week_2_day_1_free_pra__" RUN_TARGET_NAME="week_2_day_1_free_pra__">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d91033f7-b49b-4a24-9ce5-07306a8dca02" name="Default Changelist" comment="" />
+      <created>1548065381328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548065381328</updated>
+      <workItem from="1548065383344" duration="1375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1375000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="40" width="1402" height="782" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.3289855" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289855" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
