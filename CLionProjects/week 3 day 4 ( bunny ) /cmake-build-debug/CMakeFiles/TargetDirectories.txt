@@ -1,0 +1,3 @@
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 3 day 4 ( bunny ) /cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 3 day 4 ( bunny ) /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 3 day 4 ( bunny ) /cmake-build-debug/CMakeFiles/week_3_day_4___bunny___.dir
