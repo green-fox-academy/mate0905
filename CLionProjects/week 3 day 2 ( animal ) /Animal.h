@@ -10,6 +10,7 @@ class Animal {
 
     int hunger, thirst;
 
+
     Animal();
 
     void eat();
