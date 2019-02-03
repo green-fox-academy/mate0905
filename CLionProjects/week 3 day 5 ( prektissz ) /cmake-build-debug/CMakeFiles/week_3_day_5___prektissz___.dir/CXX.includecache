@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 3 day 5 ( prektissz ) /main.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+
