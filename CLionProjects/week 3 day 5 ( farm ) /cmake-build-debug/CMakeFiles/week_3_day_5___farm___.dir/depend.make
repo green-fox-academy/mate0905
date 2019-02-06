@@ -4,6 +4,11 @@
 CMakeFiles/week_3_day_5___farm___.dir/animal.cpp.o: ../animal.cpp
 CMakeFiles/week_3_day_5___farm___.dir/animal.cpp.o: ../animal.h
 
+CMakeFiles/week_3_day_5___farm___.dir/farm.cpp.o: ../animal.h
+CMakeFiles/week_3_day_5___farm___.dir/farm.cpp.o: ../farm.cpp
+CMakeFiles/week_3_day_5___farm___.dir/farm.cpp.o: ../farm.h
+
 CMakeFiles/week_3_day_5___farm___.dir/main.cpp.o: ../animal.h
+CMakeFiles/week_3_day_5___farm___.dir/main.cpp.o: ../farm.h
 CMakeFiles/week_3_day_5___farm___.dir/main.cpp.o: ../main.cpp
 

@@ -33,3 +33,8 @@ void Animal::play(){
 
 
 };
+
+int Animal::howHungry() {
+
+    return _hunger;
+}

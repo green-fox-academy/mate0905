@@ -3,5 +3,5 @@ project(week_3_day_5___farm___)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(week_3_day_5___farm___ main.cpp animal.cpp animal.h)
+add_executable(week_3_day_5___farm___ main.cpp animal.cpp animal.h farm.cpp farm.h)
 

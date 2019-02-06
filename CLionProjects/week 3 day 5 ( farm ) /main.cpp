@@ -1,13 +1,18 @@
 #include <iostream>
 #include "animal.h"
-
-int main()   {
-
-    Animal fox;
+#include <list>
+#include "farm.h"
 
 
-    fox.drink();
-    fox.eat();
+int main()  {
+
+
+
+    Farm farmunk;
+    farmunk._listOfAnimals[3];
+
+
+
 
 
     return 0;

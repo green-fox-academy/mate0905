@@ -150,6 +150,33 @@ animal.cpp.s:
 	$(MAKE) -f CMakeFiles/week_3_day_5___farm___.dir/build.make CMakeFiles/week_3_day_5___farm___.dir/animal.cpp.s
 .PHONY : animal.cpp.s
 
+farm.o: farm.cpp.o
+
+.PHONY : farm.o
+
+# target to build an object file
+farm.cpp.o:
+	$(MAKE) -f CMakeFiles/week_3_day_5___farm___.dir/build.make CMakeFiles/week_3_day_5___farm___.dir/farm.cpp.o
+.PHONY : farm.cpp.o
+
+farm.i: farm.cpp.i
+
+.PHONY : farm.i
+
+# target to preprocess a source file
+farm.cpp.i:
+	$(MAKE) -f CMakeFiles/week_3_day_5___farm___.dir/build.make CMakeFiles/week_3_day_5___farm___.dir/farm.cpp.i
+.PHONY : farm.cpp.i
+
+farm.s: farm.cpp.s
+
+.PHONY : farm.s
+
+# target to generate assembly for a file
+farm.cpp.s:
+	$(MAKE) -f CMakeFiles/week_3_day_5___farm___.dir/build.make CMakeFiles/week_3_day_5___farm___.dir/farm.cpp.s
+.PHONY : farm.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -189,6 +216,9 @@ help:
 	@echo "... animal.o"
 	@echo "... animal.i"
 	@echo "... animal.s"
+	@echo "... farm.o"
+	@echo "... farm.i"
+	@echo "... farm.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

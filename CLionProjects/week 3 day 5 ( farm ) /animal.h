@@ -22,6 +22,9 @@ public:
 
     void play();
 
+    int howHungry();
+
+
 
 };
 
