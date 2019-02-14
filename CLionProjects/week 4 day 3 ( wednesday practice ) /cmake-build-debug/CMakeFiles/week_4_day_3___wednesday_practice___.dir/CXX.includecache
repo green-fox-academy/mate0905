@@ -6,17 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /bassGuitar.cpp
-bassGuitar.h
-/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /bassGuitar.h
-
 /Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /bassGuitar.h
 stringedInstrument.h
 /Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /stringedInstrument.h
-
-/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /electricGuitar.cpp
-electricGuitar.h
-/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /electricGuitar.h
 
 /Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /electricGuitar.h
 stringedInstrument.h
@@ -44,17 +36,9 @@ bassGuitar.h
 violin.h
 /Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /violin.h
 
-/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /stringedInstrument.cpp
-stringedInstrument.h
-/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /stringedInstrument.h
-
 /Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /stringedInstrument.h
 instrument.h
 /Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /instrument.h
-
-/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /violin.cpp
-violin.h
-/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /violin.h
 
 /Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /violin.h
 stringedInstrument.h

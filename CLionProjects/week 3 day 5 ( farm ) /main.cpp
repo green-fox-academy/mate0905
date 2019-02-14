@@ -3,17 +3,11 @@
 #include <list>
 #include "farm.h"
 
-
-int main()  {
-
-
+int main()
+{
 
     Farm farmunk;
     farmunk._listOfAnimals[3];
-
-
-
-
 
     return 0;
 }

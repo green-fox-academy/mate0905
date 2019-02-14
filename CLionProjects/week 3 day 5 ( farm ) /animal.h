@@ -5,28 +5,25 @@
 #ifndef WEEK_3_DAY_5_FARM_ANIMAL_H
 #define WEEK_3_DAY_5_FARM_ANIMAL_H
 
+class Animal
+{
 
-class Animal {
+ public:
 
-public:
+  Animal();
 
-    Animal();
+  int _hunger;
 
-    int _hunger;
+  int _thirst;
 
-    int _thirst;
+  void eat();
 
-    void eat();
+  void drink();
 
-    void drink();
+  void play();
 
-    void play();
-
-    int howHungry();
-
-
+  int howHungry();
 
 };
-
 
 #endif //WEEK_3_DAY_5_FARM_ANIMAL_H

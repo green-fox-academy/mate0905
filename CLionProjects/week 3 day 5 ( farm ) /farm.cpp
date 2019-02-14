@@ -6,30 +6,27 @@
 #include "animal.h"
 #include <iostream>
 
-void Farm::slaughter() {
+void Farm::slaughter()
+{
 
     int maxHunger = 0;
-    if(vectorOfAnimal->size()!=0) {
-
+    if (vectorOfAnimal->size() != 0) {
 
         std::cout << "There is no animal left to kill" << std::endl;
-    }else{
+    } else {
 
-        for (int i = 0; i < vectorOfAnimal->size(); i++ ){
+        for (int i = 0; i < vectorOfAnimal->size(); i++) {
 
-        if(vectorOfAnimal[i].howHungry()> maxHunger)
-
+            if (vectorOfAnimal[i].howHungry() > maxHunger)
 
         }
+
 
     }
 
 };
 
-
-
-viod breed() {
-
-
+viod breed()
+{
 
 };

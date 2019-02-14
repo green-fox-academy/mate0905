@@ -5,36 +5,38 @@
 #include "animal.h"
 #include <iostream>
 
-
-Animal::Animal() {
+Animal::Animal()
+{
 
     _hunger = 50;
     _thirst = 50;
 
 }
 
-
-void Animal::eat(){
+void Animal::eat()
+{
 
     _hunger--;
     std::cout << "Hunger is: " << _hunger << std::endl;
 };
 
-void Animal::drink(){
+void Animal::drink()
+{
 
     _thirst--;
     std::cout << "Thirst is: " << _thirst << std::endl;
 };
 
-void Animal::play(){
+void Animal::play()
+{
 
     _thirst++;
     _hunger++;
 
-
 };
 
-int Animal::howHungry() {
+int Animal::howHungry()
+{
 
     return _hunger;
 }
