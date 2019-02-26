@@ -17,7 +17,7 @@ typedef struct
 {
   unsigned char name[128];
   unsigned int age;
-  unsigned int health : 7;
+  unsigned int health : 6;
   char name_of_tamer[256];
   enum digivolution_level level;
 
