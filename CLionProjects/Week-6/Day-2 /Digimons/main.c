@@ -51,7 +51,7 @@ int main()
     Raichu.level = MEGA;
 
     strcpy(Pikatchu.name_of_tamer, "name1");
-    strcpy(Charmander.name_of_tamer, "name2");
+    strcpy(Charmander.name_of_tamer, "name1");
     strcpy(Charizard.name_of_tamer, "name3");
     strcpy(Raichu.name_of_tamer, "name4");
 
