@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gasparmate/Desktop/School/Repository (github)/CLionProjects/week 6 day 2 print_each_line/main.c
+stdio.h
+-
+string.h
+-
+

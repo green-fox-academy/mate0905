@@ -1,0 +1,3 @@
+/Users/gasparmate/CLionProjects/Week 1 Day 5 ( friday ) /cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gasparmate/CLionProjects/Week 1 Day 5 ( friday ) /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gasparmate/CLionProjects/Week 1 Day 5 ( friday ) /cmake-build-debug/CMakeFiles/Week_1_Day_5___friday___.dir

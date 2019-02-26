@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 3 day 5 ( farm ) /animal.cpp
+animal.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 3 day 5 ( farm ) /animal.h
+iostream
+-
+
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 3 day 5 ( farm ) /animal.h
+
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 3 day 5 ( farm ) /farm.cpp
+farm.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 3 day 5 ( farm ) /farm.h
+
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 3 day 5 ( farm ) /farm.h
+animal.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 3 day 5 ( farm ) /animal.h
+list
+-
+
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 3 day 5 ( farm ) /main.cpp
+iostream
+-
+animal.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 3 day 5 ( farm ) /animal.h
+list
+-
+farm.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 3 day 5 ( farm ) /farm.h
+

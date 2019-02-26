@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 3 ( print each line ) /main.cpp
+iostream
+-
+fstream
+-
+string
+-
+exception
+-
+vector
+-
+sstream
+-
+

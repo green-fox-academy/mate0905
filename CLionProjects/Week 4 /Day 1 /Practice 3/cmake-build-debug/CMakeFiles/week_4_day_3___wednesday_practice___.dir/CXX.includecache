@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /bassGuitar.h
+stringedInstrument.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /stringedInstrument.h
+
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /electricGuitar.h
+stringedInstrument.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /stringedInstrument.h
+
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /instrument.cpp
+instrument.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /instrument.h
+
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /instrument.h
+iostream
+-
+
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /main.cpp
+iostream
+-
+instrument.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /instrument.h
+stringedInstrument.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /stringedInstrument.h
+electricGuitar.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /electricGuitar.h
+bassGuitar.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /bassGuitar.h
+violin.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /violin.h
+
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /stringedInstrument.h
+instrument.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /instrument.h
+
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /violin.h
+stringedInstrument.h
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( wednesday practice ) /stringedInstrument.h
+

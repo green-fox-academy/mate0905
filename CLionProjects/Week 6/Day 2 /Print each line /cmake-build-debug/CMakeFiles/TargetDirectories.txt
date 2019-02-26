@@ -1,0 +1,3 @@
+/Users/gasparmate/Desktop/School/Repository (github)/CLionProjects/week 6 day 2 print_each_line/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gasparmate/Desktop/School/Repository (github)/CLionProjects/week 6 day 2 print_each_line/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gasparmate/Desktop/School/Repository (github)/CLionProjects/week 6 day 2 print_each_line/cmake-build-debug/CMakeFiles/week_6_day_2_print_each_line.dir
