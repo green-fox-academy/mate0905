@@ -50,10 +50,10 @@ int main()
     Charizard.level = ULTIMATE;
     Raichu.level = MEGA;
 
-    strcpy(Pikatchu.name_of_tamer, "Michele");
-    strcpy(Charmander.name_of_tamer, "Michele");
-    strcpy(Charizard.name_of_tamer, "Manu");
-    strcpy(Raichu.name_of_tamer, "Sziszilvi");
+    strcpy(Pikatchu.name_of_tamer, "name1");
+    strcpy(Charmander.name_of_tamer, "name2");
+    strcpy(Charizard.name_of_tamer, "name3");
+    strcpy(Raichu.name_of_tamer, "name4");
 
     Digi_mons[0] = Pikatchu;
     Digi_mons[1] = Charmander;
@@ -61,7 +61,7 @@ int main()
     Digi_mons[3] = Raichu;
 
     printf("%d, %d, %d, %.2f,", get_minimum_health_index(Digi_mons, 4), get_same_digivolution_count(Digi_mons, 4, MEGA),
-           get_same_tamer_count(Digi_mons, 4, "Michele"), get_average_health(Digi_mons, 4, "Michele"));
+           get_same_tamer_count(Digi_mons, 4, "name1"), get_average_health(Digi_mons, 4, "name1"));
 
 
     return 0;
