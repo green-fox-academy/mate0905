@@ -1,3 +1,0 @@
-/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 1 ( practice 1.task) /cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 1 ( practice 1.task) /cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 1 ( practice 1.task) /cmake-build-debug/CMakeFiles/Most_Common_Character.dir
