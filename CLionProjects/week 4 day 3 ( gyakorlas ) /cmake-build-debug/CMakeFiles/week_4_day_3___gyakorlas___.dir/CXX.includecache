@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gasparmate/Desktop/School/mate0905/CLionProjects/week 4 day 3 ( gyakorlas ) /main.cpp
+iostream
+-
+
