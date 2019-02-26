@@ -1,3 +1,0 @@
-/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 3 (count lines ) /cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 3 (count lines ) /cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/gasparmate/Desktop/suli/mate0905/CLionProjects/week 2 day 3 (count lines ) /cmake-build-debug/CMakeFiles/week_2_day_3__count_lines___.dir
