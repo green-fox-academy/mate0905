@@ -1,0 +1,23 @@
+16:03:15 **** Incremental Build of configuration Debug for project asd_test ****
+make -j3 all 
+Building file: ../src/main.c
+Invoking: MCU GCC Compiler
+/Users/gasparmate/Desktop/example/asd_test/Debug
+arm-none-eabi-gcc -mcpu=cortex-m7 -mthumb -mfloat-abi=hard -mfpu=fpv5-sp-d16 -DSTM32 -DSTM32F7 -DSTM32F746NGHx -DSTM32F746G_DISCO -DDEBUG -DSTM32F746xx -DUSE_HAL_DRIVER -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/ampire480272" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/n25q512a" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/s5k5cag" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/mfxstm32l152" -I"/Users/gasparmate/Desktop/example/asd_test/CMSIS/device" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/ts3510" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/n25q128a" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/st7735" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/rk043fn48h" -I"/Users/gasparmate/Desktop/example/asd_test/HAL_Driver/Inc/Legacy" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/ov9655" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/otm8009a" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/STM32746G-Discovery" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/Common" -I"/Users/gasparmate/Desktop/example/asd_test/HAL_Driver/Inc" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/stmpe811" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/wm8994" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Fonts" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/ft5336" -I"/Users/gasparmate/Desktop/example/asd_test/inc" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/ft6x06" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/exc7200" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/st7789h2" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Log" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/adv7533" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/ampire640480" -I"/Users/gasparmate/Desktop/example/asd_test/CMSIS/core" -I"/Users/gasparmate/Desktop/example/asd_test/Utilities/Components/mx25l512" -O0 -g3 -Wall -fmessage-length=0 -ffunction-sections -c -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: asd_test.elf
+Invoking: MCU GCC Linker
+arm-none-eabi-gcc -mcpu=cortex-m7 -mthumb -mfloat-abi=hard -mfpu=fpv5-sp-d16 -T"/Users/gasparmate/Desktop/example/asd_test/LinkerScript.ld" -Wl,-Map=output.map -Wl,--gc-sections -o "asd_test.elf" @"objects.list"   -lm
+Finished building target: asd_test.elf
+ 
+/Applications/Xcode.app/Contents/Developer/usr/bin/make --no-print-directory post-build
+Generating binary and Printing size information:
+arm-none-eabi-objcopy -O binary "asd_test.elf" "asd_test.bin"
+arm-none-eabi-size "asd_test.elf"
+   text	   data	    bss	    dec	    hex	filename
+  47504	   1208	   2628	  51340	   c88c	asd_test.elf
+ 
+16:03:24 **** Incremental Build of configuration Debug for project asd_test ****
+make -j3 all 
+make: Nothing to be done for `all'.

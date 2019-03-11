@@ -1,0 +1,6 @@
+16:03:24 **** Incremental Build of configuration Debug for project asd_test ****
+make -j3 all 
+make: Nothing to be done for `all'.
+
+16:03:25 Build Finished (took 324ms)
+

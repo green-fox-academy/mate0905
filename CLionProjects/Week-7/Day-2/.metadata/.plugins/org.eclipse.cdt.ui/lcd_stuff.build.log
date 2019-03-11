@@ -1,0 +1,6 @@
+13:17:12 **** Incremental Build of configuration Debug for project lcd_stuff ****
+make -j3 all 
+make: Nothing to be done for `all'.
+
+13:17:12 Build Finished (took 354ms)
+
